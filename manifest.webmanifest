@@ -1,7 +1,7 @@
 {
-  "name": "Color by Numbers",
-  "short_name": "Colors",
-  "description": "A calm color-by-numbers game.",
+  "name": "Educational Kid Games",
+  "short_name": "Kid Games",
+  "description": "Calm learning games for one child.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
