@@ -33,6 +33,41 @@
       "geometryVersion": "cd6951a68e8d"
     },
     {
+      "id": "abc-match-bunny",
+      "title": "Bunny and carrots",
+      "theme": "abc-match",
+      "added": "2026-10-21",
+      "maxN": 8,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "geometryVersion": "3593848050ef"
+    },
+    {
+      "id": "abc-match-bus",
+      "title": "School bus",
+      "theme": "abc-match",
+      "added": "2026-10-21",
+      "maxN": 9,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "geometryVersion": "51831184fa21"
+    },
+    {
       "id": "abc-rocket",
       "title": "Rocket in the stars",
       "theme": "abc",
@@ -50,6 +85,77 @@
         10
       ],
       "geometryVersion": "3efbe34349e6"
+    },
+    {
+      "id": "abc-small-cake",
+      "title": "Birthday cake",
+      "theme": "abc-small",
+      "added": "2026-10-21",
+      "maxN": 8,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "geometryVersion": "ff5a98d89713"
+    },
+    {
+      "id": "abc-small-frog",
+      "title": "Frog on a lily pad",
+      "theme": "abc-small",
+      "added": "2026-10-21",
+      "maxN": 9,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "geometryVersion": "f4cefa156a1d"
+    },
+    {
+      "id": "alefbet-final-bee",
+      "title": "Bee and the hive",
+      "theme": "alefbet-final",
+      "added": "2026-10-21",
+      "maxN": 9,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "geometryVersion": "6676e4e51ed7"
+    },
+    {
+      "id": "alefbet-final-castle",
+      "title": "Sandcastle",
+      "theme": "alefbet-final",
+      "added": "2026-10-21",
+      "maxN": 9,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "geometryVersion": "26670c68ba1b"
     },
     {
       "id": "alefbet-snail",
@@ -1288,6 +1394,42 @@
       "geometryVersion": "de685c44cfa9"
     },
     {
+      "id": "minus-apple-tree",
+      "title": "Apple tree",
+      "theme": "minus",
+      "added": "2026-10-21",
+      "maxN": 9,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "geometryVersion": "71467ed7942e"
+    },
+    {
+      "id": "minus-hot-air-balloon",
+      "title": "Hot air balloon",
+      "theme": "minus",
+      "added": "2026-10-21",
+      "maxN": 9,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "geometryVersion": "1a8b3139df1f"
+    },
+    {
       "id": "seasons-apple-orchard",
       "title": "Apple picking",
       "theme": "seasons",
@@ -1727,6 +1869,40 @@
         38
       ],
       "geometryVersion": "2388134d778d"
+    },
+    {
+      "id": "three-birthday-cake",
+      "title": "Birthday cake",
+      "theme": "three",
+      "added": "2026-10-21",
+      "maxN": 8,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "geometryVersion": "1af763a0ba1d"
+    },
+    {
+      "id": "three-owls",
+      "title": "Three owls",
+      "theme": "three",
+      "added": "2026-10-21",
+      "maxN": 8,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "geometryVersion": "a923458c295f"
     },
     {
       "id": "vehicles-airplane-sky",
