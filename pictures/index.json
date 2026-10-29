@@ -15,6 +15,71 @@
       "geometryVersion": "2c849ee4f9b4"
     },
     {
+      "id": "abc-alike-flamingo",
+      "title": "Flamingo in the lagoon",
+      "theme": "abc-alike",
+      "added": "2026-10-29",
+      "maxN": 8,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "geometryVersion": "8fb0f9260d2e"
+    },
+    {
+      "id": "abc-alike-narwhal",
+      "title": "Narwhal and the bubbles",
+      "theme": "abc-alike",
+      "added": "2026-10-29",
+      "maxN": 7,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "geometryVersion": "80229662ed25"
+    },
+    {
+      "id": "abc-hear-tea-party",
+      "title": "Teddy's tea party",
+      "theme": "abc-hear",
+      "added": "2026-10-29",
+      "maxN": 8,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "geometryVersion": "43a4ab58b2c3"
+    },
+    {
+      "id": "abc-hear-unicorn",
+      "title": "Sleepy unicorn",
+      "theme": "abc-hear",
+      "added": "2026-10-29",
+      "maxN": 6,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "geometryVersion": "c162006727ea"
+    },
+    {
       "id": "abc-ladybug",
       "title": "Ladybug on a leaf",
       "theme": "abc",
@@ -122,6 +187,37 @@
       "geometryVersion": "f4cefa156a1d"
     },
     {
+      "id": "alefbet-alike-hedgehog",
+      "title": "Hedgehog and the apples",
+      "theme": "alefbet-alike",
+      "added": "2026-10-29",
+      "maxN": 6,
+      "nEffs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "geometryVersion": "5df37fcd8a2b"
+    },
+    {
+      "id": "alefbet-alike-llama",
+      "title": "Llama with a flower crown",
+      "theme": "alefbet-alike",
+      "added": "2026-10-29",
+      "maxN": 6,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "geometryVersion": "0d22b6cbc57d"
+    },
+    {
       "id": "alefbet-final-bee",
       "title": "Bee and the hive",
       "theme": "alefbet-final",
@@ -156,6 +252,36 @@
         9
       ],
       "geometryVersion": "26670c68ba1b"
+    },
+    {
+      "id": "alefbet-hear-fawn",
+      "title": "Fawn in the flowers",
+      "theme": "alefbet-hear",
+      "added": "2026-10-29",
+      "maxN": 6,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "geometryVersion": "9065e81722da"
+    },
+    {
+      "id": "alefbet-hear-puppy",
+      "title": "Puppy and the balloons",
+      "theme": "alefbet-hear",
+      "added": "2026-10-29",
+      "maxN": 6,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "geometryVersion": "52f46651ca8c"
     },
     {
       "id": "alefbet-snail",
@@ -1430,6 +1556,80 @@
       "geometryVersion": "1a8b3139df1f"
     },
     {
+      "id": "missing-carousel",
+      "title": "The carousel",
+      "theme": "missing",
+      "added": "2026-10-29",
+      "maxN": 9,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "geometryVersion": "d3fdf9b75c32"
+    },
+    {
+      "id": "missing-unicorn",
+      "title": "Unicorn and the rainbow",
+      "theme": "missing",
+      "added": "2026-10-29",
+      "maxN": 9,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "geometryVersion": "774c3c5baa7c"
+    },
+    {
+      "id": "plusminus-ice-cream",
+      "title": "Ice cream cart",
+      "theme": "plusminus",
+      "added": "2026-10-29",
+      "maxN": 10,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "geometryVersion": "474abc6e4c4a"
+    },
+    {
+      "id": "plusminus-octopus",
+      "title": "Octopus's treasure",
+      "theme": "plusminus",
+      "added": "2026-10-29",
+      "maxN": 10,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "geometryVersion": "45ff87f64e43"
+    },
+    {
       "id": "seasons-apple-orchard",
       "title": "Apple picking",
       "theme": "seasons",
@@ -1871,6 +2071,126 @@
       "geometryVersion": "2388134d778d"
     },
     {
+      "id": "storybook-bakery",
+      "title": "Luna's bakery",
+      "theme": "storybook",
+      "added": "2026-10-29",
+      "maxN": 30,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "geometryVersion": "210209247f1a"
+    },
+    {
+      "id": "storybook-cloud-castle",
+      "title": "Luna at the cloud castle",
+      "theme": "storybook",
+      "added": "2026-10-29",
+      "maxN": 31,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "geometryVersion": "12dbed0564f0"
+    },
+    {
+      "id": "storybook-rainbow-meadow",
+      "title": "A rainbow after the rain",
+      "theme": "storybook",
+      "added": "2026-10-29",
+      "maxN": 32,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "geometryVersion": "02cd9f0c9801"
+    },
+    {
       "id": "three-birthday-cake",
       "title": "Birthday cake",
       "theme": "three",
@@ -1903,6 +2223,44 @@
         8
       ],
       "geometryVersion": "a923458c295f"
+    },
+    {
+      "id": "twenty-kittens",
+      "title": "Kittens and yarn",
+      "theme": "twenty",
+      "added": "2026-10-29",
+      "maxN": 10,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "geometryVersion": "044ebd9fa15a"
+    },
+    {
+      "id": "twenty-peacock",
+      "title": "Peacock",
+      "theme": "twenty",
+      "added": "2026-10-29",
+      "maxN": 10,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "geometryVersion": "1e9fc6754f75"
     },
     {
       "id": "vehicles-airplane-sky",
